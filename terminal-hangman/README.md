@@ -1,5 +1,5 @@
 # Terminal Hangman
-https://github.com/vivecuervo7/terminal-hangman
+https://github.com/christopherhildebrandt/Hangman-Terminal-App
 
 ## Purpose
 Aim is to provide a player with a game of Hangman
